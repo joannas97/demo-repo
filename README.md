@@ -1,2 +1,2 @@
 # demo-repo
-demo repository to figure things out
+demo repository to figure things out on github
